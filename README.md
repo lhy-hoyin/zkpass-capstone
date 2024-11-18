@@ -1,3 +1,7 @@
+StackUp Campaign: [Begin Your Zero-Knowledge Journey with zkPass](https://earn.stackup.dev/campaigns/begin-your-zero-knowledge-journey-with-zkpass)
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
